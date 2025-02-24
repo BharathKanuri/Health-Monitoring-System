@@ -1,7 +1,7 @@
 # Health Monitoring System
 
 ## Description
-The Health Monitoring System is a web-based ML application designed to predict diseases based on user-provided symptoms. The application leverages a ***Multi-Layer Perceptron (MLP Classifier)*** machine learning model with an ***+Accuracy of 94.42%*** and an ***F1-Score of 94.30%***. The system allows users to select from ***376 symptoms*** and predicts up to ***41 diseases*** with a ***confidence score threshold of 50%***.
+The Health Monitoring System is a web-based ML application designed to predict diseases based on user-provided symptoms. The application leverages a ***Multi-Layer Perceptron (MLP Classifier)*** machine learning model with an ***Accuracy of 94.42%*** and an ***F1-Score of 94.30%***. The system allows users to select from ***376 symptoms*** and predicts up to ***41 diseases*** with a ***confidence score threshold of 50%***.
 
 Once a disease is predicted, the application provides detailed information including:
 
