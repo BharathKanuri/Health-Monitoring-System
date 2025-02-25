@@ -115,7 +115,7 @@
 ---
 
 ## Project Directory Structure
-  ![Project Directory Structure](https://github.com/user-attachments/assets/7f8693e3-a4ca-4970-aa32-ff536518f8bc)
+  ![Project Directory Structure](https://github.com/user-attachments/assets/b24162c5-ab97-424d-a59c-3c40a32a0c5f)
 
 ---
 
