@@ -73,7 +73,7 @@
 <p align="justify">
   <b>Step 1: Clone the Repository to your local machine</b><br><br>
   &nbsp;&nbsp;&nbsp;&nbsp;1. Run the following command to clone the repository:<br>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<code>git clone https://github.com/your-username/health-monitoring-system.git</code><br><br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<code>git clone https://github.com/BharathKanuri/health-monitoring-system.git</code><br><br>
   &nbsp;&nbsp;&nbsp;&nbsp;2. Navigate to the project directory:<br>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<code>cd health-monitoring-system</code>
 </p>
